@@ -78,7 +78,7 @@
      * Default game width.
      * @const
      */
-    var DEFAULT_WIDTH = 600;
+    var DEFAULT_WIDTH = 1200;
 
     /**
      * Frames per second.
@@ -120,9 +120,9 @@
         MAX_OBSTACLE_DUPLICATION: 2,
         MAX_SPEED: 13,
         MIN_JUMP_HEIGHT: 35,
-        MOBILE_SPEED_COEFFICIENT: 1.2,
+        MOBILE_SPEED_COEFFICIENT: 0.8,
         RESOURCE_TEMPLATE_ID: 'audio-resources',
-        SPEED: 6,
+        SPEED: 4,
         SPEED_DROP_COEFFICIENT: 3
     };
 
