@@ -562,7 +562,7 @@
                         this.currentSpeed += this.config.ACCELERATION;
                     }
                 } else {
-                    this.gameOver();
+                    //this.gameOver();
                 }
 
                 var playAchievementSound = this.distanceMeter.update(deltaTime,
